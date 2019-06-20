@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Depe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Scopes", "DependencyInjection.Scopes\DependencyInjection.Scopes.csproj", "{F2434645-450A-48F8-8EC2-2466A6DDB273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Http", "DependencyInjection.Http\DependencyInjection.Http.csproj", "{3DC2452F-3A37-4CDA-87D1-18023D7C9B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection.Logging", "DependencyInjection.Logging\DependencyInjection.Logging.csproj", "{8DB653EA-2894-4753-8CE9-859919D62B2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F2434645-450A-48F8-8EC2-2466A6DDB273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2434645-450A-48F8-8EC2-2466A6DDB273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2434645-450A-48F8-8EC2-2466A6DDB273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC2452F-3A37-4CDA-87D1-18023D7C9B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC2452F-3A37-4CDA-87D1-18023D7C9B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC2452F-3A37-4CDA-87D1-18023D7C9B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC2452F-3A37-4CDA-87D1-18023D7C9B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB653EA-2894-4753-8CE9-859919D62B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB653EA-2894-4753-8CE9-859919D62B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB653EA-2894-4753-8CE9-859919D62B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB653EA-2894-4753-8CE9-859919D62B2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
